@@ -1,0 +1,3 @@
+class EndPoints {
+  String baseUrl = '';
+}
